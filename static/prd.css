@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    /* background-color: #7cbee4; */
+    background-image: url("medical-icons-509612424.jpg");
+    background-size: cover;
+}
+
+header {
+    font-family:'Baloo Bhai', cursive;
+    padding-top: 20;
+    padding-bottom: 20;
+    background-color: #2244b6;
+    color: #ffffff;
+}
+
+.btn {
+    font-family: 'Baloo Bhai', cursive;
+    margin: 0px 9px;
+    background-color: black;
+    color: white;
+    padding: 4px 14px;
+    border: 2px solid grey;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgb(31, 30, 30);
+}
+
+
+input {
+    /* background-color:antiquewhite; */
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+    display: block;
+    width: 508px;
+    padding: 1px;
+    border: 2px solid black;
+    margin: 1px auto;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 500px) {
+    input {
+        width: 100%;
+    }
+}
