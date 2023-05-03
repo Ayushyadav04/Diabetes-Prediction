@@ -1,5 +1,5 @@
 # Diabetes Prediction
-This research paper develops a machine learning model for diabetes prediction using a dataset of patient information. The results show that the random forest algorithm outperforms other models in terms of accuracy, precision, recall, and F1 score. It also identifies the most important features for the model, such as age, BMI, and fasting blood sugar levels. This study highlights the potential of machine learning models in improving diabetes diagnosis and management.
+This is to develops a machine learning model for diabetes prediction using a dataset of patient information. The results show that the random forest algorithm outperforms other models in terms of accuracy, precision, recall, and F1 score. It also identifies the most important features for the model, such as age, BMI, and fasting blood sugar levels. This study highlights the potential of machine learning models in improving diabetes diagnosis and management.
 # About the dataset
 Pima Indians diabetes Dataset is taken from kaggle. This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 # User Interface
